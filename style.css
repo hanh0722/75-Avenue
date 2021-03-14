@@ -691,7 +691,7 @@ footer ul li:first-child{
         transform: scale(1.2);
     }
     .main{
-        background-image: url(/Avenue/Picture/Banner1.png);
+        background-image: url(Banner1.png);
         background-size: cover;
         height: 90vh;
     }

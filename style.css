@@ -140,7 +140,7 @@
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover; */
-    background: url(/Avenue/Picture/Banner.png);
+    background: url(Banner.png);
     background-size: cover;
 }
 .grid3{
